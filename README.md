@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgendaData
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning python and sql
-- 💞️ I’m looking to collaborate on data visualisation
+- 👀 I’m a  Data Analysis currently learning data engineering
+- 🌱 I work with python, sql and spreedsheets
+- 💞️ I visualise data
 - 📫 How to reach me ...ifeanyichukwupromise19@gmail.com
 
 <!---
